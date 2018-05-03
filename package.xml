@@ -37,10 +37,10 @@
 
 <package>
   <name>snav_msgs</name>
-  <version>0.0.0</version>
+  <version>0.1.0</version>
   <description>The snav_msgs package</description>
 
-  <maintainer email="jdougher@todo.todo">jdougher</maintainer>
+  <maintainer email="jadougher@gmail.com">jdougher</maintainer>
 
   <license>BSD</license>
 
