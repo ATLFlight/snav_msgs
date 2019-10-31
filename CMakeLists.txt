@@ -54,6 +54,8 @@ add_action_files(DIRECTORY action FILES
   ComputeTraj.action)
 
 add_message_files(FILES
+  MapPoint.msg
+  MapPointArray.msg
   Waypoint.msg
   WaypointArray.msg
   WaypointConfig.msg
